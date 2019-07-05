@@ -1,0 +1,6 @@
+Airfoil\ Fitting\ tests/
+run/*.geo
+run/*.dat
+run/*.su2
+SplineFitting/dependencies/
+build/
